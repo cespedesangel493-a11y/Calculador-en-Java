@@ -1,2 +1,2 @@
 # Calculador-en-Java
-Es un calculador Bastante sencilla hecha por mi usando java.
+Es un calculadora Bastante sencilla hecha por mi usando java.
